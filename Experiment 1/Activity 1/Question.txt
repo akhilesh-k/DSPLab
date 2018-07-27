@@ -1,0 +1,4 @@
+Generate the following signalas using MATLAB
+
+1. x(t)=10cos^2(4*pi*t)-pi/3)
+2. x[n]=2sin(8n)+4cos(0.1*pi*n)
