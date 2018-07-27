@@ -1,0 +1,9 @@
+x1=(unitfn(0,-20,20)-unitfn(10,-20,20));
+x2=10*exp(-0.3.*(n-10))
+x3=(unitfn(10,-20,20)-unitfn(20,-20,20));
+x=x1+x2;
+n=-20:20;
+stem(n,x);
+xlabel('sequence');
+ylabel('value');
+title('Activity 2-B')
